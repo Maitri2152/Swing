@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Poppins' , sans-serif;
+    font-family: 'Montserrat' , sans-serif;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    background-color: rgb(47, 40, 40);
+}
